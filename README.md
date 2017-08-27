@@ -42,7 +42,7 @@ Be sure you are comfortable that it does nothing that troubles you.
 ### OSX
 Download, read, and execute osx_setup.sh
 
-The "read the script before you execute" advice above applies double here.  The script installs software from Apple and two external sources.
+The "read the script before you execute" advice above applies double here.  The script installs software from Apple and three external sources.
 
 ### ChromeOS or Windows
 
