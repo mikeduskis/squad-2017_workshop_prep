@@ -6,7 +6,7 @@ We will project our work on the wall so those who have not prepared will be able
 ## Requirements
 1. A **notebook computer** with enough power to survive a three hour session
 
-1. A **Python interpreter**, preferably the latest 3.x version
+1. A **Python interpreter**, preferably the latest 3.x version.
 While not ideal, Python 2.6 or later should be OK and it comes standard with OSX and most GNU/Linux distributions, so non-Windows users might find it easier to leave well enough alone.  
 
 1. A **text editor** suitable for writing code. If you don't already have a favorite, use Atom: free download from https://atom.io
