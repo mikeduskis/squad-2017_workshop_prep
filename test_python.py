@@ -13,7 +13,7 @@ for name in ['expects', 'requests']:
         import_module(name)
     except ModuleNotFoundError:
         print(
-            'The "%s" module was not found.  Try "pip install %s"'
+            'The "%s" module was not found.  Try "python -m pip install %s"'
             % (name, name))
         exit(1)
 
